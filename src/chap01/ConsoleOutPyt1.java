@@ -5,7 +5,6 @@ import javax.swing.Spring;
 public class ConsoleOutPyt1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		//문자열을 출력 
 		System.out.println("안녕하세요");	
 					/*자열을 연결해서 출력 : + : 숫자일 땐 덧셈
