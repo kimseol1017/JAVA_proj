@@ -61,6 +61,8 @@ public class BitWiserOP {
 		System.out.println("평균 출력:" + Double.parseDouble(avg));//실수 입력 받아야함 변환 안되면 오류발생
 		
 		
+		
+		
 
 	}
 }
