@@ -65,7 +65,10 @@ public class Dowhile_ST2 {
 						System.out.println("정수 10개를 입력하세요");
 						for(int i = 0; i < 10; i++) {
 							h = ss.nextInt();
-							if (h % 2 == 0){
+							if( h <= 0) {
+								continue;
+							}
+							else if (h % 2 == 0){
 								k +=1 ;
 							}
 						}
