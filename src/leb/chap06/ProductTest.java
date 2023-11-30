@@ -49,14 +49,12 @@ public class ProductTest {
 		System.out.println("===========================");
 		//배열에 있는 값을 꺼내어 Product 변수 p 에 담고 출력 for
 		for(int i = 0; i < arr.length; i++) {
-			Product p = arr[i];
-			if(p == null) {
-				break;
+			if(arr[i] != null) {
+				Product p = arr[i];
+				System.out.println(p);
 			}
-			System.out.println(p);
+		
 		}
-		
-		
 		
 	}
 
