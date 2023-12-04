@@ -1,4 +1,4 @@
-package cha05.ex04;
+package chap05.ex04;
 
 public class Array_Definitioin {
 

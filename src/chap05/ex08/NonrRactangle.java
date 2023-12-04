@@ -1,4 +1,4 @@
-package cha05.ex08;
+package chap05.ex08;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package cha05.ex05;
+package chap05.ex05;
 
 public class Arrary_Df {
 
